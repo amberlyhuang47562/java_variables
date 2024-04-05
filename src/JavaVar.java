@@ -11,6 +11,8 @@ public class JavaVar
 
         battlepass = 15;
 
-        System.out.println(games);
+        System.out.println("Number of games I own = " + games);
+        System.out.println("My monthly allowance = " + allowance);
+        System.out.println("The cost of a single battlepass = " + battlepass);
     }
 }
